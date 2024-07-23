@@ -1,8 +1,6 @@
 import { useState } from 'react'
-<<<<<<< HEAD
 import React from 'react'
 import Slide from './Slide'
-=======
 // import {Navbar, NavbarBrand, NavbarContent, NavbarItem, Link, Input, DropdownItem, DropdownTrigger, Dropdown, DropdownMenu, Avatar} from "@nextui-org/react";
 // import {AcmeLogo} from "./NavBar/AcmeLogo.jsx";
 // import {SearchIcon} from "./NavBar/SearchIcon.jsx";
@@ -10,7 +8,6 @@ import NavBar from './NavBar.jsx';
 import Footer from "./components/Footer.jsx";
 import PopularSrc from './components/PopularSrc.jsx';
 
->>>>>>> 6b9b6f1edb9b3edf5296c65768f6df08208953a4
 
 
 function App() {
@@ -18,10 +15,8 @@ function App() {
 
   return (
     <>
-<<<<<<< HEAD
       < Slide />
      
-=======
     {/* <Navbar isBordered>
       <NavbarContent justify="start">
         <NavbarBrand className="mr-4">
@@ -93,7 +88,6 @@ function App() {
     <NavBar />
       <Footer />
       <PopularSrc />
->>>>>>> 6b9b6f1edb9b3edf5296c65768f6df08208953a4
     </>
   )
 }
