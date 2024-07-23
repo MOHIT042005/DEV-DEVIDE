@@ -1,0 +1,12 @@
+.carousel-inner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slide-one{
+    height: auto!important;
+    width: 100%;
+    box-shadow: 0px 0px 10px rgb(77, 15, 125);
+}

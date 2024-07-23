@@ -1,4 +1,6 @@
 import { useState } from 'react'
+import React from 'react'
+import Slide from './Slide'
 
 
 function App() {
@@ -6,7 +8,7 @@ function App() {
 
   return (
     <>
-      
+      < Slide />
     </>
   )
 }
