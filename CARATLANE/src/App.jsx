@@ -4,9 +4,9 @@ import Slide from './Slide'
 // import {Navbar, NavbarBrand, NavbarContent, NavbarItem, Link, Input, DropdownItem, DropdownTrigger, Dropdown, DropdownMenu, Avatar} from "@nextui-org/react";
 // import {AcmeLogo} from "./NavBar/AcmeLogo.jsx";
 // import {SearchIcon} from "./NavBar/SearchIcon.jsx";
-import NavBar from './NavBar.jsx';
-import Footer from "./components/Footer.jsx";
-import PopularSrc from './components/PopularSrc.jsx';
+// import NavBar from './NavBar.jsx';
+// import Footer from "./components/Footer.jsx";
+// import PopularSrc from './components/PopularSrc.jsx';
 
 
 
@@ -85,9 +85,9 @@ function App() {
         </Dropdown>
       </NavbarContent>
     </Navbar> */}
-    <NavBar />
+    {/* <NavBar />
       <Footer />
-      <PopularSrc />
+      <PopularSrc /> */}
     </>
   )
 }

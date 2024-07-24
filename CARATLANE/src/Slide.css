@@ -11,8 +11,7 @@
     box-shadow: 10px 10px 10px rgb(77, 15, 125);
 }
 .six{
-        padding: 50px;
-        background-color: green;
+       
         transition:  .2s;
         width: 200px;
         height: 200px;
@@ -23,8 +22,6 @@
         -webkit-transform: scale(1.5); /* Safari 3-8 */
         transform: scale(1.5); 
       }
-
-
 #banner2{
     height:100%;
     width: 100%;
