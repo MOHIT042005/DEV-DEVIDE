@@ -1,0 +1,28 @@
+.carousel-inner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.5s ease-in-out;
+}
+
+.slide-one{
+    height: auto!important;
+    width: 100%;
+    box-shadow: 10px 10px 10px rgb(77, 15, 125);
+}
+.six{
+       
+        transition:  .2s;
+        width: 200px;
+        height: 200px;
+        margin-top: 60%;
+}
+.six:hover{
+        -ms-transform: scale(1.5); /* IE 9 */
+        -webkit-transform: scale(1.5); /* Safari 3-8 */
+        transform: scale(1.5); 
+      }
+#banner2{
+    height:100%;
+    width: 100%;
+}
